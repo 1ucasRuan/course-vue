@@ -14,6 +14,7 @@ export default {
 .header {
     font-size: 24px;
     margin-bottom: 20px;
-    color: blueviolet;
+    color:green;
+    background-color: aquamarine;
 }
 </style>
